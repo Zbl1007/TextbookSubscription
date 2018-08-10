@@ -1,0 +1,17 @@
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\bin\Debug\TextbookSubscription.Repository.dll.config
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\bin\Debug\TextbookSubscription.Repository.dll
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\bin\Debug\TextbookSubscription.Repository.pdb
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\bin\Debug\EntityFramework.dll
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\bin\Debug\TextbookSubscription.Domain.dll
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\bin\Debug\TextbookSubscription.Domain.pdb
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\bin\Debug\TextbookSubscription.Domain.dll.config
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\bin\Debug\EntityFramework.xml
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\obj\Debug\TextbookSubscription.Repository.csprojAssemblyReference.cache
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\obj\Debug\TextbookSubscription.Repository.csproj.CoreCompileInputs.cache
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\obj\Debug\TextbookSubscription.Repository.csproj.CopyComplete
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\obj\Debug\TextbookSubscription.Repository.dll
+D:\CodeRepository\TextbookSubscription\TexrtbookSubscription.Repository\obj\Debug\TextbookSubscription.Repository.pdb

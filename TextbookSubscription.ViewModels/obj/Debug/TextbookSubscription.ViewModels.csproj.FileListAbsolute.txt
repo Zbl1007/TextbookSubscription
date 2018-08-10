@@ -1,0 +1,6 @@
+D:\CodeRepository\TextbookSubscription\TextbookSubscription.ViewModels\bin\Debug\TextbookSubscription.ViewModels.dll.config
+D:\CodeRepository\TextbookSubscription\TextbookSubscription.ViewModels\bin\Debug\TextbookSubscription.ViewModels.dll
+D:\CodeRepository\TextbookSubscription\TextbookSubscription.ViewModels\bin\Debug\TextbookSubscription.ViewModels.pdb
+D:\CodeRepository\TextbookSubscription\TextbookSubscription.ViewModels\obj\Debug\TextbookSubscription.ViewModels.csproj.CoreCompileInputs.cache
+D:\CodeRepository\TextbookSubscription\TextbookSubscription.ViewModels\obj\Debug\TextbookSubscription.ViewModels.dll
+D:\CodeRepository\TextbookSubscription\TextbookSubscription.ViewModels\obj\Debug\TextbookSubscription.ViewModels.pdb
